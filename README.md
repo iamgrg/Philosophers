@@ -31,10 +31,10 @@ Run the program specifying the number of philosophers, time to die, time to eat,
 ```
 This command starts a simulation with 5 philosophers where:
 
-time_to_die is 800ms: A philosopher dies if they haven't started eating within 800ms since their last meal.
-time_to_eat is 200ms: It takes 200ms for a philosopher to eat.
-time_to_sleep is 200ms: A philosopher sleeps for 200ms.
-number_of_times_each_philosopher_must_eated is 7: Simulation stops if all philosophers eat at least 7 times.
+- time_to_die is 800ms: A philosopher dies if they haven't started eating within 800ms since their last meal.
+- time_to_eat is 200ms: It takes 200ms for a philosopher to eat.
+- time_to_sleep is 200ms: A philosopher sleeps for 200ms.
+- number_of_times_each_philosopher_must_eated is 7: Simulation stops if all philosophers eat at least 7 times.
 
 ## Global Rules
 
