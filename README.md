@@ -1,3 +1,4 @@
+![Church 1871](https://github.com/iamgrg/Philosophers/assets/80717523/dae639d0-3fd0-49df-90a1-f9b1b544ac1c)
 # Philosophers
 
 ## Overview
